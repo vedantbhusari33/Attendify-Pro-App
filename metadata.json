@@ -1,0 +1,7 @@
+{
+  "name": "Attendify Pro v3.0",
+  "description": "An Excel-powered attendance suite with Material Design UI, featuring real-time analytics, student management, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
